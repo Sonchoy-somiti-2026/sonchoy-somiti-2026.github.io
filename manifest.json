@@ -1,0 +1,26 @@
+{
+  "name": "সঞ্চয় সমিতি ২০২৬",
+  "short_name": "সঞ্চয় সমিতি",
+  "description": "সঞ্চয় সমিতির স্বচ্ছ হিসাব",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0b6b49",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
